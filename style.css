@@ -1,0 +1,99 @@
+h1 {
+  color: darkred;
+  text-align: center;
+}
+
+h2 {
+  color: darkred;
+  text-align: center;
+}
+
+
+div.Broncos {
+  text-align: left;
+  background-color: gray;
+  padding: 42px;
+}
+
+div.Avalanche {
+  text-align: left;
+  background-color: gray;
+  padding: 42px;
+}
+
+li {
+  color: darkorange;
+  font-family: fantasy;
+  font-size: 24px;
+}
+
+p {
+  color: darkorange;
+  font-family: fantasy;
+  font-size: 24px;
+}
+
+div.start {
+  font-size: 65px;
+  color: darkred;
+  font-family: fantasy;
+  text-align: center;
+  background: darkgray;
+}
+
+div.Title {
+  font-size: 50px;
+  color: darkblue;
+  font-family: monospace;
+  text-align: center;
+}
+
+
+
+div.Rockies {
+  text-align: left;
+  background-color: gray;
+  padding: 42px;
+}
+
+div.Nuggets {
+  text-align: left;
+  background-color: gray;
+  padding: 42px;
+}
+
+img.football {
+  border-radius: 0px;
+  border-style: none;
+}
+
+html {
+  background-color: lightgray;
+
+
+}
+
+img {
+  border-radius: 12px;
+  border-color: darkred;
+  border-style: outset;
+}
+
+div.topnav {
+  color: darkgray;
+}
+
+
+a.more {
+  color: darkblue;
+  font-size: 42px;
+  font-family: fantasy;
+}
+
+html.more {
+  background-color: rgb(0, 40, 104);
+}
+
+html {
+  background-color: lightgray;
+}
